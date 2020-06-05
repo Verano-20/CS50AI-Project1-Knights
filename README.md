@@ -8,4 +8,4 @@ Knights will always tell the truth, whereas Knaves will always lie.
 
 Given a set of sentences spoken by various characters, the objective of the game is to determine which characters are Knights and which characters are Knaves.
 
-The AI uses propositional symbols and knowledge bases to determine which characters are Knights and which are Knaves.
+The program uses propositional symbols and knowledge bases to determine which characters are Knights and which are Knaves.

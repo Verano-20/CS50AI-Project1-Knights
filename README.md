@@ -1,5 +1,5 @@
-# CS50AI-Project1-Knights
-My solution for CS50AI project 1 - knights.
+# CS50AI-Project 1-Knights
+My solution for CS50AI Project 1 - Knights.
 
 An program which solves the logic puzzle of the game 'Kinghts and Knaves'.
 
